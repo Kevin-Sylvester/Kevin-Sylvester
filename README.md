@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kevin-Sylvester](https://github.com/Kevin-Sylvester)
 
-- 📝 I regularly write articles on [https://kesy.hashnode.dev/](https://kesy.hashnode.dev/)
+- 📝 I regularly write articles on [https://hashnode.com/@Kesy](https://hashnode.com/@Kesy)
 
 - 💬 Ask me about **HTML,CSS,JS,React**
 
